@@ -2,7 +2,7 @@
 
 • Analyze needs (Continuity, Efficiency, Scalability, Security, Performance)
 • Design architecture
-• List tasks and arrange schedule
+• List tasks
+• Arrange schedules (Agile)
 • Distribute tasks
-• Distribute task
 • Unit testing
